@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-
+zmiana nowa
 public class gajosbank {
 
 	public static void main(String[] args) throws IOException {
